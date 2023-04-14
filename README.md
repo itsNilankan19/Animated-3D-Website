@@ -1,1 +1,3 @@
 # Animated-3D-Website
+
+The project is an endeavor to develop an innovative web application that presents customizable 3D figures of the respective product for advertising purposes. The project employs modern front-end technologies and a structured design process that integrates client requirements. Additionally, responsive design practices are utilized to ensure the user-friendliness of the app on various devices. The project aims to deliver a seamless and high-quality experience to the clients. It uses mainly ReactJS along with ThreeJS for creating the 3 dimesional visual effect and also WebGI creates the UI that how the product should look like when any user tries to inspect it.
